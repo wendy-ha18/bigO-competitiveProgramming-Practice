@@ -1,1 +1,3 @@
-# bigO-competitiveProgramming-Practice
+# BigO Competitive Programming Practice
+Codeforces <br/>
+Hackerrank.
